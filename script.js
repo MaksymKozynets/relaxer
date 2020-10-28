@@ -40,4 +40,4 @@ setInterval(updateCountdown, 1000);
    
  }
 
- 
+ //не зупиняється??
